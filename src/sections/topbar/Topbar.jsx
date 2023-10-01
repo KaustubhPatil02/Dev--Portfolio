@@ -59,7 +59,7 @@ export default function Topbar() {
                     </div>
                     <div className="items">
                         {/* <Web className='icons' /> */}
-                        <a href='https://drive.google.com/file/d/1tp98KTUy-R6-79tmPylzy0flORO5DqTb/view?usp=sharing' target='#blank'>
+                        <a href='https://drive.google.com/file/d/10nCgj1xUoG8ububmkfSLrtkOnO5cyscq/view?usp=sharing' target='#blank'>
                             <span>Resume</span>
                         </a>
                     </div>
